@@ -2,7 +2,7 @@
 - 👀 I’m interested in Helping You
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate with passionate people like me
-- 📫 Reach Me @codestargm@gmail.com
+
 
 <!---
 ghousmohammed/ghousmohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
